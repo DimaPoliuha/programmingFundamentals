@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(73): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(147): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(159): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(170): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(180): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(185): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(190): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(195): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(200): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitry\documents\visual studio 2017\projects\arkanoid\arkanoid\main.cpp(215): warning C4715: startgame: значение возвращается не при всех путях выполнения
+  Arkanoid.vcxproj -> C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\Arkanoid\Debug\Arkanoid.exe
+  Arkanoid.vcxproj -> C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\Arkanoid\Debug\Arkanoid.pdb (Partial PDB)
